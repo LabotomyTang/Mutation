@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\ProjectsVisualStudio\Mutation\main.cpp(47,13): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Mutation.vcxproj -> E:\ProjectsVisualStudio\Mutation\x64\Debug\Mutation.exe
